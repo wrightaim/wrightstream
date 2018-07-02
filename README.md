@@ -1,9 +1,13 @@
-Front-end: https://github.com/wrightaim/wrightstream-frontend
-
-Back-end: https://github.com/wrightaim/wrightstream-backend
+<p align="center">
+  <img src="./public/assets/logo.svg" alt="WrightStream" width="300">
+  <br>
+  The ultimate workflow tool for artisans
+</p>
 
 ---
-
+Front-end: https://github.com/wrightaim/wrightstream-frontend<br>
+Back-end: https://github.com/wrightaim/wrightstream-backend
+---
 
 ## Philosophy
 Our mission is to assist artisans with business planning so they can focus on  what they do best — creating.
