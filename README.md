@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="./public/assets/logo.svg" alt="WrightStream" width="300">
+  <img src="./assets/logo.svg" alt="WrightStream" width="300">
   <br>
   The ultimate workflow tool for artisans
 </p>
 
 ---
+
 Front-end: https://github.com/wrightaim/wrightstream-frontend<br>
 Back-end: https://github.com/wrightaim/wrightstream-backend
+
 ---
 
 ## Philosophy
