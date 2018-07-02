@@ -121,20 +121,19 @@ a {
 
 #about {
 
-  .profile {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-
-    img {
-      border-radius: 50%;
-      max-width: 250px;
-      width: 100%;
-    }
-  }
-
   .columns {
     flex-wrap: wrap;
+  }
+
+  .column {
+    margin: 1rem auto;
+  }
+
+  .lnr {
+    color: $periwinkle;
+    display: block;
+    font-size: 100px;
+    margin-bottom: 3rem;
   }
 
   p {
@@ -149,6 +148,51 @@ a {
     &:hover {
       color: darken($link, 10%);
     }
+  }
+
+  .hero-body {
+    padding-bottom: 0;
+  }
+
+  .columns {
+    flex-wrap: wrap;
+  }
+
+  .reverse {
+    @media (min-width: 769px) {
+      display: flex;
+      flex-direction: row-reverse;
+    }
+  }
+
+  .feature-text {
+    align-items: center;
+    display: flex;
+    font-size: 1rem;
+    margin-top: -.75rem;
+    padding: 2rem 1rem;
+
+    @media (min-width: 1023px) and (max-width: 1408px) {
+      font-size: .85rem;
+    }
+
+    @media (max-width: 1023px) {
+      padding-top: 4rem;
+    }
+  }
+
+  .feature-image {
+    align-items: flex-end;
+    display: flex;
+    padding: 1rem 1rem .75rem;
+
+    @media (min-width: 1024px) {
+      padding: 3rem 3rem .75rem;
+    }
+  }
+
+  img {
+    display: block;
   }
 }
 
