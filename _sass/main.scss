@@ -1,0 +1,35 @@
+@charset "utf-8";
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+
+// FONTS
+
+$family-sans-serif: "Work Sans", sans-serif;
+$heading-sans-serif: "Work Sans", sans-serif;
+
+// COLORS
+
+$slate: #f0f1f6;
+$quartz: #9295a5;
+$stone: #76757b;
+$ash: #333333;
+$mist: #e2e4f0;
+$lavender: #d9def1;
+$periwinkle: #bbc3dd;
+$indigo: #636fa6;
+$koamaru: #21242d;
+$green: #83bf8a;
+$yellow: #ebcd6f;
+$red: #d66667;
+
+$primary: $indigo;
+$primary-invert: $white;
+$secondary: $periwinkle;
+$link: $periwinkle;
+
+// VARIABLE OVERRIDES
+
+$navbar-height: 4.75rem;
+
+
+@import "../node_modules/bulma/bulma";
+@import "theme";

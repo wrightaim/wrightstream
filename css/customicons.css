@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'customicon';
+  src:  url('fonts/customicon.eot?f4okna');
+  src:  url('fonts/customicon.eot?f4okna#iefix') format('embedded-opentype'),
+    url('fonts/customicon.ttf?f4okna') format('truetype'),
+    url('fonts/customicon.woff?f4okna') format('woff'),
+    url('fonts/customicon.svg?f4okna#customicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'customicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-adobe-aftereffects:before {
+  content: "\e901";
+}
+.icon-adobe-animate:before {
+  content: "\e902";
+}
+.icon-adobe-audition:before {
+  content: "\e903";
+}
+.icon-adobe-characteranimator:before {
+  content: "\e904";
+}
+.icon-adobe-dreamweaver:before {
+  content: "\e905";
+}
+.icon-adobe-experience:before {
+  content: "\e906";
+}
+.icon-adobe-illustrator:before {
+  content: "\e907";
+}
+.icon-adobe-indesign:before {
+  content: "\e908";
+}
+.icon-adobe-lightroom:before {
+  content: "\e909";
+}
+.icon-adobe-muse:before {
+  content: "\e90a";
+}
+.icon-adobe-photoshop:before {
+  content: "\e90b";
+}
+.icon-adobe-premiere:before {
+  content: "\e90c";
+}
+.icon-adobe-scout:before {
+  content: "\e90d";
+}
+.icon-adobe-spark:before {
+  content: "\e90e";
+}
+.icon-adobe-stock:before {
+  content: "\e90f";
+}
+.icon-adobe-story:before {
+  content: "\e910";
+}
+.icon-ajax:before {
+  content: "\e911";
+}
+.icon-asana:before {
+  content: "\e912";
+}
+.icon-bootstrap:before {
+  content: "\e913";
+}
+.icon-buffer:before {
+  content: "\e914";
+}
+.icon-bulma:before {
+  content: "\e915";
+}
+.icon-circleci:before {
+  content: "\e916";
+}
+.icon-foundation:before {
+  content: "\e917";
+}
+.icon-git:before {
+  content: "\e918";
+}
+.icon-googleanalytics:before {
+  content: "\e919";
+}
+.icon-heroku:before {
+  content: "\e91a";
+}
+.icon-hootsuite:before {
+  content: "\e91b";
+}
+.icon-intercom:before {
+  content: "\e91c";
+}
+.icon-invision:before {
+  content: "\e91d";
+}
+.icon-jquery:before {
+  content: "\e91e";
+}
+.icon-json:before {
+  content: "\e91f";
+}
+.icon-knexjs:before {
+  content: "\e920";
+}
+.icon-mailchimp:before {
+  content: "\e921";
+}
+.icon-microsoft-excel:before {
+  content: "\e922";
+}
+.icon-microsoft-onenote:before {
+  content: "\e923";
+}
+.icon-microsoft-outlook:before {
+  content: "\e924";
+}
+.icon-microsoft-powerpoint:before {
+  content: "\e925";
+}
+.icon-microsoft-word:before {
+  content: "\e926";
+}
+.icon-mysql:before {
+  content: "\e927";
+}
+.icon-php:before {
+  content: "\e928";
+}
+.icon-postgresql:before {
+  content: "\e929";
+}
+.icon-ruby:before {
+  content: "\e92a";
+}
+.icon-shopify:before {
+  content: "\e92b";
+}
+.icon-sketch:before {
+  content: "\e92c";
+}
+.icon-zapier:before {
+  content: "\e92d";
+}
