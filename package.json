@@ -2,7 +2,7 @@
   "name": "wrightstream",
   "version": "1.0.0",
   "description": "Front-end: https://github.com/wrightaim/wrightstream-frontend",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "css-deploy": "npm run css-build && npm run css-postcss",
     "css-build": "node-sass _sass/main.scss css/main.css",
@@ -19,7 +19,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wrightaim/wrightstream/issues"
   },
